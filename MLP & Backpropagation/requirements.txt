@@ -1,0 +1,7 @@
+# Notebook Setup & Imports
+numpy 
+matplotlib 
+pandas 
+sklearn
+torch
+torchvision 
